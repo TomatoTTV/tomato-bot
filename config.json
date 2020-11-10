@@ -1,0 +1,6 @@
+{
+    "token": "Nzc0MTM0NDU1MjI0MjM4MTQw.X6TW5A.90whlm9T5t2W-ZelDSwiEss7p3g",
+    "prefix": "/",
+    "mongoPath": "./mongo.js",
+    "redisPath": "./redis.js"
+  }
